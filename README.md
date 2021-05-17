@@ -1,4 +1,2 @@
 # R_note
-R 강의 노트록입니다. 
-
-수정 중
+Notes from R lesson / R 수업시간 필기 노트
